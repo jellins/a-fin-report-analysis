@@ -1,0 +1,10 @@
+# macOS
+.DS_Store
+# Python
+__pycache__/
+*.pyc
+# 数据源脚本本地产物（年报 PDF 下载目录 / 本地构建产物）
+announcements/
+dist/
+# 内部开发过程文档（PRD/TDD/Plan/验收记录），不公开
+docs/
